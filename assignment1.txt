@@ -1,0 +1,42 @@
+1. Home Automation (Connected buildings)
+    - Smart lighting
+    - Smart appliance
+    - Smart security systems
+
+2.  Smart Energy 
+    - Smart grids
+    - Renewable energy systems
+    - Prognostics
+
+3. Environment
+    - Weather monitoring systems
+    - Forest fire detection
+    - Air pollution
+
+4. Agriculture (Smart Agriculture)
+    - Smart irrigation
+    - Green house
+
+5. Logistics
+    - Shipment monitoring
+    - Remote vehicle diagnostics
+    - Fleet tracking
+
+6. Industries (Connected Industries)
+    - Machine diagnostics
+    - Indoor air quality monitoring
+
+7. Smart cities
+    - Smart parking
+    - Smart roads
+    - Emergency Response
+
+8. Health and life style (Connected Health)
+    - Wearable electronics
+    - Health and Fitness monitoring
+
+9. Connected cars
+
+10. Smart suppy chain
+
+11. Smart retail
