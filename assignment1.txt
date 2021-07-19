@@ -40,3 +40,31 @@
 10. Smart suppy chain
 
 11. Smart retail
+
+12. Traffic monitoring
+
+13. Fleet management
+
+14. Agriculture
+
+15. Automation
+    - Industrial
+        - Factory Digitalization
+        - Product flow Monitoring
+        - Inventory Management
+        - Safety and Security
+        - Quality Control
+
+16. Military applications
+    - Internet of battlefield things
+    - Ocean of things
+
+17. Infrastructure applications
+    - Metropolitan scale deployments
+    - Energy management
+
+18. V2X communications
+
+19. Elder care
+
+20. Monitor maritime
